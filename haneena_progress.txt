@@ -4,3 +4,4 @@ css
 html
 
 day2: 7/2/25
+day 3
